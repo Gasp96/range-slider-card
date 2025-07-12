@@ -16,7 +16,7 @@ Small version
 ## 📌 Installation  
 
 ### 1️⃣ HACS (Recommended)
-Ensure you have HACS (Home Assistant Community Store) installed.
+Ensure you have HACS (https://hacs.xyz/) installed.
 Go to HACS -> Frontend -> Explore & Add Repositories.
 Search for "Range Slider Card".
 Click "Install".
