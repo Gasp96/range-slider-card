@@ -63,6 +63,7 @@ entity_time_max: input_datetime.time2
 
 | Option       | Type   | Description |
 |-------------|--------|-------------|
+| `name` | string | Display name for the slider |
 | `entity_min` | string | The `input_number` entity for the minimum value |
 | `entity_max` | string | The `input_number` entity for the maximum value |
 | `min`       | number | The minimum selectable value |
