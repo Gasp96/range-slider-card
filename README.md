@@ -63,7 +63,7 @@ entity_time_max: input_datetime.time2
 
 | Option       | Type   | Description |
 |-------------|--------|-------------|
-| `name` | string | Display name for the slider. To remove the name, copy and paste the following invisible character: "‎‎ "|
+| `name` | string | Display name for the slider. To remove the name, copy and paste the following invisible character: ‎ |
 | `entity_min` | string | The `input_number` entity for the minimum value |
 | `entity_max` | string | The `input_number` entity for the maximum value |
 | `min`       | number | The minimum selectable value |
