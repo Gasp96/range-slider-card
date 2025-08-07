@@ -15,7 +15,7 @@ Small version
 
 ## 📌 Installation  
 
-### 1️⃣ HACS (Recommended)
+### 1️⃣ HACS
 
 1.  Ensure you have [HACS (Home Assistant Community Store)](https://hacs.xyz/) installed.
 2.  Go to HACS -> Frontend -> Explore & Add Repositories.
