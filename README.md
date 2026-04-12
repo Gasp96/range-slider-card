@@ -17,11 +17,13 @@ Small version
 
 ### 1️⃣ HACS
 
-1.  Ensure you have [HACS (Home Assistant Community Store)](https://hacs.xyz/) installed.
-2.  Go to HACS -> Frontend -> Explore & Add Repositories.
-3.  Search for "Range Slider Card".
-4.  Click "Install".
-5.  Restart Home Assistant (if prompted).
+1.  Ensure you have [HACS (Home Assistant Community Store)](https://hacs.xyz/) installed
+2. Go to HACS → three dots (top right corner) → Custom repositories.
+3. Add the repository URL: https://github.com/Gasp96/range-slider-card
+Set the category to Frontend. Click Add.
+4. Then go to HACS → Search for “range-slider-card”.
+Click Install.
+5. Restart Home Assistant if prompted.
 
 ### 2️⃣ Manual Installation  
 - Download `range-slider-card.js` or `range-small-slider-card.js` or `range-time-slider-card.js`
