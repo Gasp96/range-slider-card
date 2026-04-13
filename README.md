@@ -26,9 +26,9 @@ Click Install.
 5. Restart Home Assistant if prompted.
 
 ### 2️⃣ Manual Installation  
-- Download `range-slider-card.js` or `range-small-slider-card.js` or `range-time-slider-card.js`
+- Download `range-slider-card.js`
 - Place it in your `www` folder in Home Assistant  
-- Installation instructions: go to Settings > Dashboards > (top right, the three dots) > Resources > Add resource > paste the following URL: `/local/range-slider-card.js` or `/local/range-small-slider-card.js` or `range-time-slider-card.js`
+- Installation instructions: go to Settings > Dashboards > (top right, the three dots) > Resources > Add resource > paste the following URL: `/local/range-slider-card.js`
 - Restart Home Assistant
 
 ## ⚙️ Configuration  
